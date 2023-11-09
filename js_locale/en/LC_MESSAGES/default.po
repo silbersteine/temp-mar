@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: lokalise.com\n"
+"Project-Id-Version: GHActionsTesting\n"
+"PO-Revision-Date: 2023-11-09 13:39\n"
+"Last-Translator: lokalise.com\n"
+"Language-Team: lokalise.com\n\n"
+"Language: en\n"
+
+msgid "card.vacation1"
+msgstr "VACATION"
+
+msgid "case_study.medium1"
+msgstr "Medium"
+
+msgid "case_study.title:_speakings..631"
+msgstr "The template is available for use in the Figma community, so don't forget to check it out."
+
+msgid "frame_625902.define1"
+msgstr "Define"
+
+msgid "transactions.history.message1"
+msgstr "You have spent {value} $$ in Subway yesterday. See all transactions from this place because you spent way to much on sandwiches."
