@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: lokalise.com\n"
+"Project-Id-Version: Temp Marigold\n"
+"PO-Revision-Date: 2023-11-09 14:12\n"
+"Last-Translator: lokalise.com\n"
+"Language-Team: lokalise.com\n\n"
+"Language: ja\n"
+
+#, fuzzy
+msgid "card.vacation1"
+msgstr "休暇"
+
+#, fuzzy
+msgid "case_study.medium1"
+msgstr "中くらい"
+
+#, fuzzy
+msgid "case_study.title:_speakings..631"
+msgstr "このテンプレートは Figma コミュニティで使用できるので、ぜひチェックしてください。"
+
+#, fuzzy
+msgid "frame_625902.define1"
+msgstr "定義する"
+
+#, fuzzy
+msgid "transactions.history.message1"
+msgstr "昨日、地下鉄で{value} $$ を使いました。サンドイッチに多額の費用を費やしたため、この場所からのすべての取引を確認してください。"
